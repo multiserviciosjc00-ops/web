@@ -1,0 +1,30 @@
+notas diseño programa
+
+
+
+/* --- Estilos originales --- */
+
+aca se modifica el ancho y largo de las pantallas cambiando este valor 
+  ---- max-width:800px-----
+
+
+
+ aca es el espacio donde va el #numeroDocumento { font-size:2em; padding:12px; text-align:center; 
+
+-----width:30%; margin-bottom:20px; }
+
+
+
+
+este codigo me da la posicion en la pantalla  del teclado
+
+    .contenedor { 
+    background:#fff; 
+    padding:22px; 
+    border-radius:12px; 
+    width:100%; 
+    max-width:700px; 
+    margin-left:auto;   /* mantiene la caja pegada a la derecha */
+    margin-right:50px;  /* opcional: da espacio con el borde derecho */
+    box-shadow:0 6px 14px rgba(0,0,0,.1); 
+}
